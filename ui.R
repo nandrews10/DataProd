@@ -26,6 +26,8 @@ shinyUI(pageWithSidebar(
     
     div(p("**Slide the bars and observe your SumSqResiduals (O) with Minimun(X)")),
     
+    div(p("**CODE--in https://github.com/ncandrews/DataProd")),
+    
     
     div(
       
