@@ -14,6 +14,7 @@ shinyServer(function(input, output) {
     
     # Hardcode the true relationship
     n.obs = 50
+    #this is relationship
     x <- rnorm(n.obs, 0, 2)
     y <- 2 + x + rnorm(n.obs, 0, 1)
     
