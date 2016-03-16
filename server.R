@@ -1,5 +1,4 @@
 
-#setwd("C:/Users/Naveen Andrews/Desktop/Developing-Data-Products/RegUpload") 
 getwd()
 dir("./") #Shows directory contents
 
